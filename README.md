@@ -1,2 +1,6 @@
 # Nimecraft
 This is a simple replicate of Minecraft for educational purposes. What is the science behind Minecraft ? What is even meant by this question? There are many high abstract concepts and theories from a wide range of disciplines that are used to build a game such Minecraft. In which category of games does it reside? What are the technologies used in implementation? All of those questions and more are answered and explained in the [Education folder](https://github.com/wantedskates/Nimecraft/tree/main/Education), in this folder i educate my self and others on how to build and design a game like Minecraft. 
+
+# Tech stack 
+- Jmonkey3 engine
+- Gradle
